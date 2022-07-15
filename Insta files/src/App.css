@@ -1,0 +1,70 @@
+*{
+  border: 0;
+}
+.App{
+  background-color: #fafafa;
+  height: 600vh;
+}  
+
+.app_header{
+  background-color: white;
+  /* position: sticky; */
+  top: 0;
+  object-fit: contain;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+.app_headerImage{
+  height: 30px;
+  margin-left: 170px;
+  border: 0;
+  margin-top: 15px;
+}
+.Search{
+  margin-left: 300px;
+  width: 315px;
+  height: 30px;
+  margin-top: 10px;
+  background-color: lightgray;
+  border: 1px solid #dbdbdb;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 10px;
+}
+.Home_button{
+  margin-top: 16px;
+  height: 25px;
+  margin-left: 100px;
+  /* position: relative; */
+}
+.msg_sym{
+  height: 50px;
+  width: 60px;
+  margin-left: 6px;
+  margin-top: 4px;
+}
+.add_post{
+  height: 30px;
+  width: 35px;
+  margin-top: 12px;
+
+}
+.reels{
+  height: 22px;
+  margin-left: 18px;
+  margin-top: 17px;
+}
+.heart_sym{
+  height: 23px;
+  margin-left: 20px;
+  margin-top: 17px;
+}
+.pro{
+  height: 24px;
+  margin-left: 18px;
+  margin-top: 16px;
+}
+.Controls{
+  margin-top: 5px;
+  display: flex;
+}

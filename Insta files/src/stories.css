@@ -1,0 +1,28 @@
+.Stories{
+width: 500px;
+height: 120px;
+background-color: white;
+border: 1px solid lightgray;
+margin-bottom: 45px;
+display: flex;
+margin-top: 25px;
+overflow-x: scroll;
+border-radius: 10px;
+}
+.Stories::-webkit-scrollbar {
+    display: none;
+}
+
+.status{
+    min-height: 55px;
+    min-width: 55px;
+    border: 3px solid #DF3968;
+}
+.Names{
+    margin: 25px 10px;
+}
+.font{
+    font-size: 15px;
+    max-width: 50px;
+    overflow-x: hidden;
+}

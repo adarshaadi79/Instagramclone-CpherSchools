@@ -1,0 +1,43 @@
+.suggestions_container{
+    width: 300px;
+    height: 290px;
+    margin-top: 25px;
+
+}
+.suggestions_header{
+    font-weight: bold;
+    color: #BEBEBE;
+
+}
+.suggestions_body{
+    height: 256px;
+    height: 290px;
+    margin-top: 10px;
+
+}
+.suggestions_friends{
+    display: flex;
+
+}
+.suggestions_image{
+    max-width: 45px;
+    max-height: 45px;
+    margin-top: 3px;
+}
+.suggestions_username{
+    font-weight: bold;
+    margin: 10px;
+    margin-left: 15px;
+    max-width: 54px;
+}
+.abc{
+    display: flex;
+    margin-top: 10px;
+}
+.Follow{
+    color: blue;
+    margin-left: 90px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
